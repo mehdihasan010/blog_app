@@ -13,6 +13,15 @@ class AppTheme {
       backgroundColor: AppPallete.backgroundColor,
     ),
     scaffoldBackgroundColor: AppPallete.backgroundColor,
+    tabBarTheme: TabBarTheme(
+      indicatorSize: TabBarIndicatorSize.tab,
+      dividerColor: Colors.transparent,
+      indicator: BoxDecoration(
+        borderRadius: BorderRadius.circular(50), // Creates border
+        color: AppPallete.limeAccent,
+      ),
+      labelPadding: EdgeInsets.zero, // Avoids extra space around the tab labels
+    ),
     inputDecorationTheme: InputDecorationTheme(
       contentPadding: const EdgeInsets.all(24),
       enabledBorder: _border(),

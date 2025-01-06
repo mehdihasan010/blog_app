@@ -1,0 +1,32 @@
+{
+  "latest": [
+    {
+      "imageUrl": "assets/images/productivity.png",
+      "date": "3 Feb 2024",
+      "readTime": "05 Mins Read",
+      "title": "Make design systems people want to use.",
+      "likes": "22.8k",
+      "comments": "8k"
+    }
+  ],
+  "featured": [
+    {
+      "imageUrl": "assets/images/productivity.png",
+      "date": "3 Feb 2024",
+      "readTime": "08 Mins Read",
+      "title": "Ux Design Industry 2021 Growth.",
+      "likes": "80.3k",
+      "comments": "9k"
+    }
+  ],
+  "premium": [
+    {
+      "imageUrl": "assets/images/productivity.png",
+      "date": "3 Feb 2024",
+      "readTime": "20 Mins Read",
+      "title": "Using motion design 2 animate graphics.",
+      "likes": "50.1k",
+      "comments": "6k"
+    }
+  ]
+}
